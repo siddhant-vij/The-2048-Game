@@ -1,0 +1,1 @@
+## [The 2048 Game](https://codegym.cc/quests/lectures/questmultithreading.level10.lecture15)
